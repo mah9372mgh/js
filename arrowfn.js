@@ -8,3 +8,4 @@ function ask(question, yes, no) {
 //   () => alert("You agreed."),
 //   () => alert("You canceled the execution.")
 // );
+let x = 15;
